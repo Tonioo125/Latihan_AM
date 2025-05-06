@@ -1,0 +1,23 @@
+{
+  "name": "fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@nuxtjs/auth-next": "^5.0.0-1667386184.dfbbb54",
+    "@nuxtjs/axios": "^5.13.6",
+    "nuxt": "^2.18.1",
+    "sweetalert2": "^11.19.1",
+    "vue": "^2.7.14"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.2.1"
+  }
+}
